@@ -1,0 +1,53 @@
+.bg-container{
+    background-image:url("https://res.cloudinary.com/dmfzgixkr/image/upload/v1703917605/Netflix-Background_atpoau.jpg");
+    height:100vh;
+    width:100vw;
+    background-size:cover;
+    padding:5px;
+}
+.netflix-logo{
+    height:20vh;
+    width:20vw;    
+}
+.button-container{
+    margin-top:30px;
+}
+.button-language{
+    background-color:transparent;
+    color:white;
+    border-color:white;
+    border-radius:3px;
+    width:100px;
+    height:30px;
+    font-family:"Roboto";
+    font-weight:bold;
+}
+.button-sign-in{
+    background-color:red;
+    color:white;
+    border-width:0px;
+    border-radius:3px;
+    width:100px;
+    height:30px;
+    font-family:"Roboto";
+    font-weight:bold;
+}
+.main-heading{
+    font-family:"Roboto";
+    font-size:50px;
+    font-weight:bold;
+    color:white;
+
+}
+.paragraph{
+    font-family:"Roboto";
+    font-size:20px;
+    font-weight:bold;
+    color:white;
+}
+.email-box{
+    font-family:"Roboto";
+    font-size:20px;
+    font-weight:bold;
+    color:orange;
+}
